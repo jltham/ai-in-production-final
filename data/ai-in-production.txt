@@ -1,0 +1,22 @@
+Navigating the complexities of deploying machine learning models in real-world applications is no small feat. This course offers a comprehensive view into both the scientific and engineering aspects needed to bring these models to life, at scale, whether for cloud-based solutions, mobile devices, or hardware systems.
+While there are many tutorials out there teaching how to build and train basic neural networks, getting these models into production in real-world applications is a whole set of skills that goes beyond understanding Deep Learning. In this course, we cover both the Deep Learning aspects as well as engineering and DevOps skills required to take models and serve them at scale.
+We will cover how to prepare models to make them both efficient as well as cost-effective for serving. This will include how to quantize and prune models in a way that retains as much accuracy of the model as possible while making the model 2-4x faster and smaller.
+This course will examine the popular frameworks for serving models on mobile devices and what needs to be done to prepare models for inference at the edge. This will include looking at distilling large models to make smaller versions that can be used on mobile and hardware devices, what types of models are best to use on mobile devices, how to secure your models and how to use a combination of local and cloud served models to deliver a high-quality user experience.
+We also delve into cutting-edge data pipelines using frameworks like TFX to monitor every facet of production—from data quality to model inference at scale.
+As Machine Learning starts to be governed more by various agencies, the need to explain why your models created particular responses becomes more and more necessary. This course also covers some of the key tools and techniques used to make models more explainable and how you can use those in industry.
+Here's a glimpse into the additional topics we'll cover:
+vLLM and HF Text-Gen-Inference: Comprehensive guide on using LLM serving solutions for text generation and inference.
+Edge Deployment with ONNX & TF Lite: Strategies and best practices for deploying models to edge devices using ONNX.
+Triton - NVIDIA: A look into how to use NVIDIA’s Triton for model inference at scale.
+Model Quantization: Practical ways to quantize models down to 8-bit and 4-bit using libraries like CTransformers.
+Key topics covered include:
+Join us to master the interdisciplinary skills required to bring machine learning models from the lab to the real world!
+3 days live + 7 hours online
+$2700 per pax
+Module 2 or Module 3 of Deep Learning Developer Series
+Earn a certificate upon completion
+Intermediate Level
+Approx. 28 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

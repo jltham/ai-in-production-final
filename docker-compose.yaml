@@ -1,0 +1,50 @@
+services:
+  app:
+    build: .
+    ports:
+      - 7860:7860
+    working_dir: /app
+    command: ["python", "main.py"]
+    
+  ollama:
+    image: ollama/ollama
+    ports:
+      - 11434:11434
+    volumes:
+      - ./.ollama:/root/.ollama
+    runtime: nvidia  # Use the NVIDIA runtime for GPU access
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all  # Expose all GPUs to the container
+      - NVIDIA_DRIVER_CAPABILITIES=all  # Enable all driver capabilities
+  weaviate:
+    command:
+      - --host
+      - 0.0.0.0
+      - --port
+      - '8080'
+      - --scheme
+      - http
+    image: cr.weaviate.io/semitechnologies/weaviate:1.29.0
+    ports:
+      - 8080:8080
+      - 50051:50051
+    volumes:
+      - ./.weaviate_data:/var/lib/weaviate
+    restart: on-failure:0
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      ENABLE_API_BASED_MODULES: 'true'
+      CLUSTER_HOSTNAME: 'node1'
+
+networks:
+  host:
+    external: True

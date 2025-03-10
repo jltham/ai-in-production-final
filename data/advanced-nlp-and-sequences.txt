@@ -1,0 +1,23 @@
+In this course, we go beyond the basic skills and dive deeper into some of the latest techniques for using Deep Learning for Natural Language Processing (NLP) and Natural Language Understanding (NLU) applications.
+Since text classification is a general workhorse for NLP tasks, over the course we will build custom models for tasks such as sentiment analysis, spam detection, and classifying document subject matter.
+A more specific requirement of NLP systems is to reliably detect entities and classifying individual words according to their parts of speech. We will look at how Named Entity Recognition (NER) works and how Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTMs) are used for tasks like this and many others in NLP.
+New Techniques and Models:
+Instruction Fine-Tuning: Learn to fine-tune models with new techniques like LoRA, P-tuning, and Prefix tuning can be used on models like LLaMA 3, Gemma, Mistral, Qwen-2 and Phi-3.
+LLaMA-3 from Meta: We will explore the state-of-the-art open-source LLM, including its techniques used in creating it, using the Instruction versions and a variety of Fine-Tuned alternatives.
+To provide a foundation for these methods, we explore the Deep Learning technique of using token, character, and document vector embeddings. We will cover well-known models such as Word2Vec and GLoVE, how they are created, their unique properties, and how you can use them to improve the accuracy of Natural Language in terms of understanding problems and applications.
+Building conversational agents is another useful NLP skill, and we will examine how combining text classification and slot filling can be used to create custom chatbots and also how new LLMs can be used to create agents with better accuracy than off-the-shelf systems.
+While our course starts with techniques using RNNs/LSTMs and Attention, we allocate the majority of the time to covering recent developments in using transfer learning for text-related problems and language modeling with Transformer models, including GPT-4, Gemini and Meta's LLaMA-3. These models have led to some of the recent state-of-the-art results for text classification problems like sentiment analysis and many more. This section will cover papers from ULMFIT, OpenAI’s most recent Transformer models (GPT3 and GPT4); Google’s Gemini, as well as formative transformers BERT, T5, and Reformer models; and the fundamentals of how Transformer architectures work and how they can be applied to many common techniques with code examples.
+In terms of additional NLP applications, we also cover Neural Machine Translation and text generation, and you will learn the recent developments and models that use these techniques and various types of attention mechanisms that dramatically increased the quality of translation systems. We then extend this topic by looking at the challenges of Multilingual NLP, as well as models for text similarity, sentence embeddings and generations.
+This course is designed to give the participants a practical hands-on approach. Students will be taught from and given real-world code examples for learning, as well as in-class challenges in which they will need to work through and complete during the class. The goal is to prepare students for applications, challenges, and needs that they will face in the day-to-day world as a data scientist dealing with Natural Language Processing.
+The In-class Challenges for the Advanced NLP are as follows:
+As with all the other Deep Learning Developer modules, participants will have the opportunity to build multiple models themselves. These include a main project that gives them the ability to take these new skills and apply them to their field of work or interest.
+Taught with over 30 notebooks of code examples that students can use for their own projects.
+3 days live + 7 hours online
+$2700 per pax
+A solid understanding of Deep Learning
+Earn a certificate upon completion
+Intermediate Level
+Approx. 28 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

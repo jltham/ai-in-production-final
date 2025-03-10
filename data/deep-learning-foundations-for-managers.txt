@@ -1,0 +1,17 @@
+In the ever-changing landscape of technology, product managers must be at the forefront of understanding and influencing the design and enhancement of innovative products. Deep Learning (DL), a sophisticated form of Machine Learning (ML), constitutes a major part of the current AI technologies, influencing companies like Google, Facebook, and Amazon.
+In this specialized module of the Deep Learning Developer Series, we focus on the tools, techniques, and models from a product manager's perspective. This includes not just the models like Convolutional Neural Networks, Recurrent Neural Networks, and Transformers but also tools and best practices to manage and design ML projects, with a special emphasis on Logic and Learning Models (LLMs).
+Course Outline:
+Day 1: Understanding the Basics of Deep Learning and Managing Structured Data
+Day 2: Tools for Computer Vision Products
+Day 3: Natural Language Processing and Building ML Projects with LLMs
+Key Features:
+This course is designed to equip product managers with the skills needed to not only enhance existing products but also to innovate and create new types of products and services. The added focus on tools for managing ML projects and building with LLMs ensures a comprehensive understanding tailored to the modern product manager's needs.
+3 days live + 8 hours online
+$2700 per pax
+A solid understanding of Deep Learning and TensorFlow
+Earn a certificate upon completion
+Intermediate Level
+Approx. 28 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

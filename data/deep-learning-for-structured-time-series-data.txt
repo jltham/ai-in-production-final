@@ -1,0 +1,14 @@
+It is well known that Deep Learning has achieved state of the art results in images and text.  What is often overlooked is how much Deep Learning is also being used to achieve results in tabular and structured data, which constitutes the majority of data found in organizations.  Everything from spreadsheets to log file outputs can be and are being used as data to be analysed by Deep Learning models.
+In this module we will look at the techniques and types of models that are being used for structured and tabular data.  These include models such as Wide & Deep networks which have been used extensively inside Google for a variety of tasks.  We will also look at the extensive ways that embeddings can be used for categorical data in structured problems and the multiple ways these can be handled in code.
+This module also covers time-series predictions and how you can use techniques from the text-based models to make predictions on sequences.  This opens up the range of applications to include financial time-series, continuous IoT readings, machinery failure prediction, website optimisation, and trip planning.
+The course is designed to give the participants a practical hands-on experience.  Students will be taught from and given real world code examples for learning, as well as in-class challenges that they will need to work through and complete during the class.  The goal is to prepare students for applications, challenges and needs that they will face in the day-to-day world as a data scientist dealing with structured, tabular and time series data.
+Topics covered include:
+2 days live + 7 hours online
+$1800 per pax
+A solid understanding of Deep Learning and TensorFlow
+Earn a certificate upon completion
+Intermediate Level
+Approx. 21 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

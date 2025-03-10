@@ -1,0 +1,21 @@
+This three-day workshop is designed to introduce participants to the skills needed to start their journey as a Deep Learning Developer. It goes through the overall concepts and techniques for building a variety of Deep Learning models for tabular data, image data, audio data, and text data.
+The 3 days are split based on the type of neural network architectures, their related tasks, and use cases.
+The first day covers both basics of Machine Learning and Deep Learning and prepares students to build basic fully connected networks, understand the mathematics behind these networks and how techniques like backpropagation, dense layers and cross entropy losses work.
+These techniques will then be applied across multiple networks in TensorFlow for various prediction tasks before focusing on building models for Tabular data using these fully connected networks.
+The second day covers CNNs and their corresponding layers, components, and how to use them for a number of tasks. These include classification from scratch with CNNs, using pre-trained CNN ImageNet models for Transfer Learning classification, and treating audio as images for simple audio classification.
+We also cover the basics of Object Detection, using a pre-trained TensorFlow Object Detection model.
+The third day covers both the theory and applications of transformers for tasks such as text classification and text generation. We also look at using frameworks that implement a pre-trained modern transformer such as BERT and explore Large Language Models (LLMs) for various tasks including summarization, translation, question-answering and Generative AI
+Each day will also have in-class challenges to help participants build real world coding skills. These will sometimes involve live code-alongs, fixing code with (deliberate) bugs in it, or creating a model from scratch given the data with some preprocessing code.
+The In-class Challenges for the Foundations of Deep Learning are as follows:
+At the end of the classroom training, participants will work on their models and projects. Additional learning materials and assessments will be available online, with one-on-one sessions for you to ask questions on your project. This is especially useful for understanding how to apply these skills for your unique applications.
+Overall, the curriculum will cover many of the fundamentals needed in Deep Learning projects, as well as models such as Fully Connected Neural Networks, Convolutional Neural Networks, and Transformers. Real-world examples will be used to identify the best techniques to tackle various data science problems at hand.
+In this course, participants will learn:
+Duration : 3 days
+$2700 per pax
+A solid ability to code in any language
+Earn a certificate upon completion
+Beginner Level
+Approx. 28 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

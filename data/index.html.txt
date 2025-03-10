@@ -1,0 +1,3 @@
+We are a Singapore-based Machine Learning company. We specialize inbuilding innovative Artificial Intelligence solutions, with a focus on ComputerVision and Natural Language Processing.
+Current AI technology is not fully “intelligent” yet. But it allows to do things that were not possible before, or to complete tasks with a fraction of the effort. This is opening the door to some amazing opportunities.
+Red Dragon AI uses multiple technologies to deliver ML architectures that accelerate your Natural Language Understanding and Processing tasks, in the cloud, on device and hybrid systems. Learn more in our solution guide.

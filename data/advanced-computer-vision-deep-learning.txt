@@ -1,0 +1,17 @@
+In the second course in the series, we venture beyond the basic skills to delve into advanced usage of Convolutional Neural Networks and modern image network architectures. This journey takes us from old school classification and object detection right up into the future of image segmentation with Meta's Segment Anything Model (SAM), a groundbreaking project that democratizes segmentation, allowing for adaptation to specific tasks without additional training. This makes SAM versatile for a broad set of use cases, from underwater photography to cell microscopy.
+As we understand the current state-of-the-art technologies, we will review the history of ImageNet winning models, the impact of Inception, Residual architectures, EfficientNet, and Vision Transformers, and how they enable the field to go beyond hand-engineered models. Alongside these foundational concepts, we will explore the fascinating world of Stable Diffusion, where randomness meets structure, and chaos turns into order through neural networks like VAEs and GANs.
+Our exploration continues with a deep dive into advanced skills and techniques such as object detection with models like the YOLO series, person tracking with Deep Sort, and pixel-level image segmentation with U-Nets and DenseNets. We will also examine top models using Transformers, and the principles of Generative Adversarial Networks (GANs), including how StyleGAN architectures have evolved over time.
+One of the exciting new areas we'll touch on is Diffusion Models, guiding random noise into meaningful structures for tasks like image denoising and inpainting. We'll also introduce CLIP, and BLIP-2, visual-language pre-training paradigms that bridge the gap between vision and language models, allowing state-of-the-art results for tasks like visual Q&A.
+Participants will have the opportunity to build with tools like Keras/TensorFlow, PyTorch, JAX and TorchVision, which are often used for cutting-edge computer vision research. Hands-on experience will be an essential part of the course, allowing participants to build models and apply new skills to projects in their field.
+The course duration is 3 days, encompassing 28 hours including online sessions. It offers an introduction to PyTorch and TorchVision, advanced classification, objection detection, and the skills to create applications like image search and similarity comparisons.
+Join us in this comprehensive exploration of computer vision's newest frontiers, arming yourself with skills to apply in your own area of work. This workshop brings together the past, present, and future of computer vision, offering a thrilling opportunity to learn and grow in this dynamic field.
+In this course, participants will learn:
+3 days live + 7 hours online
+$2700 per pax
+A solid understanding of Deep Learning
+Earn a certificate upon completion
+Intermediate Level
+Approx. 28 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

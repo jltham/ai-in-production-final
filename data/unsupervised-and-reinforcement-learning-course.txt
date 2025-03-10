@@ -1,0 +1,15 @@
+This 4th module in the series looks at some of the latest developments in Deep Learning research, it will cover what is cutting edge and what currently looks most promising and interesting for the advancements in Machine Learning and AI.
+One issue with many of the current techniques used in Machine Learning is the requirement for lots of labeled data, which is both costly and time consuming to create. Unsupervised and Self-Supervised Learning looks at how you can take raw unlabeled data and extract useful learnings from that data. There are currently a number of promising techniques used to do this that include Autoregressive models, Representational Learning and Cycle Consistency. We will examine examples of each of these and more to give the student an understanding of how they work as techniques, and inspire how they could be used or improved upon.
+We look at a variety of techniques such as Generative Adversarial Networks and how they are being used to produce realistic and lifelike examples, such as generated pictures of faces. Other types of techniques we will examine are Autoregressive models such as Wavenet, PixelRNN and GPT3 and  how they create self labeling systems and Variational Auto-Encoders and the concepts of latent representations and extracting representational learnings from data.
+We will also look at the field of Reinforcement Learning which has born breakthroughs such as DeepMind’s AlphaGo, Alpha Star and OpenAI’s DOTA models. We will look at how participants can examine problems as a game, which can be learnt to be played by a set of algorithms and how those algorithms can often achieve results better than the world’s best human players. 
+Key techniques covered:
+Some of the models we will look at include:
+2 days live + 7 hours online
+$1800 per pax
+A solid understanding of Deep Learning and TensorFlow
+Earn a certificate upon completion
+Intermediate Level
+Approx. 21 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.

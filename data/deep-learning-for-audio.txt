@@ -1,0 +1,13 @@
+The use of Deep Learning to build audio models has lagged their use in the image and text until domains.  Now though, Deep Learning is being used in a variety of different types of audio models and applications.  From applications as varied as Automatic Speech Recognition (ASR) and speaker diarization through to Audio manipulation models for tasks like noise reduction and signal processing, Deep Learning is finding its way into all areas of digital audio whether that be classification of the audio through to creation of new audio.
+In this course we look at the different types of audio models, data pipelines and techniques.  Audio files often require conversion and there are a variety of ways you can manipulate audio as data - from models using convolutions after converting audio into spectra through to techniques that can be applied at the level of raw waveforms to generate new audio.  The course covers a variety of types of audio manipulations to achieve common tasks that people want to do with audio.
+Overall, this course is designed to give the participants a practical hands-on approach.  Students will be taught from and given real world code examples for learning, as well as in-class challenges in which they will need to work through and complete in the class.  The goal is to prepare students for applications, challenges and needs that they will face in the day-to-day world as a data scientist dealing with audio challenges and tasks.
+Topics covered include:
+2 days live + 7 hours online
+$1800 per pax
+A solid understanding of Deep Learning and TensorFlow
+Earn a certificate upon completion
+Intermediate Level
+Approx. 21 hours to complete
+Sign up to receive additional information about this course. Find out what other learners are doing with the skills they gamed, and evaluate if this course is the right fit for you.
+Do I have to log in at a set time? How does the 360-degree assessment work? At this point, you probably have a few questions, and we’ve got answers.
+Our easy online application is free, and no special documentation is required. All applicants must be at least 18 years of age, proficient in Englisn, and committed to learning and engaging with felow participants throughout the course. We confirm enrollment eligibility within one week of your application.
